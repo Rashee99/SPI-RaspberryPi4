@@ -95,10 +95,11 @@ Raspberry Pi Device: Raspberry Pi 4
 
 -Install the build-essential using sudo apt-get install build-essential
 -Install the following packages using pip install packageName
---python-dev 
---python-smbus 
---python-pip 
---python-imaging 
---python-numpy 
+
+-python-dev 
+-python-smbus 
+-python-pip 
+-python-imaging 
+-python-numpy 
 
 
