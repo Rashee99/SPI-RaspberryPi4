@@ -67,3 +67,11 @@ Raspberry Pi Device: Raspberry Pi 4
 -	Open the putty software in your PC and connect to Board using IP address.
 -	Log in to board using username and password
 
+## 5.	Interfacing ILI9341 TFT display with Raspberry Pi Board
+
+![wiring1](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/97e9debb-542b-4c83-b435-33444c03e5a7)
+
+![wiring2](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/597512c8-ff0d-487b-81f9-28a5bc94cd3f)
+
+
+
