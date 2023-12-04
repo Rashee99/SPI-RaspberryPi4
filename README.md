@@ -93,6 +93,8 @@ Raspberry Pi Device: Raspberry Pi 4
 ![mywiring](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/a44de0a9-87ea-41d4-91e5-4d2e0be2d7e4)
 
 ## 6.	Program Using Python
+
+### 6.1	Using pip with virtual environments
 -   Install the build-essential using sudo apt-get install build-essential
 -   Install the following packages using pip install packageName
       -   python-dev
@@ -101,12 +103,29 @@ Raspberry Pi Device: Raspberry Pi 4
       -   python-imaging
       -   python-numpy
 
+### 6.2	Download the AdaFruit Library 
+-   Clone the Adafruit Library:
+      -   cd ~ git 
+      -   clone https://github.com/adafruit/Adafruit_Python_ILI9341.git 
+      -   cd Adafruit_Python_ILI9341 
+      -   sudo python setup.py install
+
+
 ## 6.1. Output 
 
 ![Output](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/37f6bafa-233f-42fe-8ef4-849f31eba514)
 
 
 ## 7.	Program Using C
+
+-   Make a directory inside the Adafruit_Python_ILI9341folder my_code.
+
+      -   mkdir my_code
+
+- Download any jpg-format picture from the internet and copy it to my_code folder, or you can use the following code to download a jpg picture:
+
+      -   wget http://example.com/path/to/image.jpg
+
 
 
 
