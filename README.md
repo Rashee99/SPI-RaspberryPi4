@@ -54,12 +54,14 @@ Raspberry Pi Device: Raspberry Pi 4
 9. **Open Raspberry Pi Configuration**
    - Access the Raspberry Pi Configuration tool using the following steps:
 
-![Uploading Config.jpg…]()
+![Config](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/772646d2-7da0-4a59-aa40-e26005a21bd9)
+
 
 
   - Enable the SSH, and SPI settings.
+    
+![SPI](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/752b9793-69dc-4a3e-b4b3-cd281b305fa8)
 
-![SPI](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/d70c1765-88ed-4c29-82e5-b7d511fa4f3c)
 
 - Check if the SPI configuration is unable or not using ls /dev (spidev0.0 and spidev0.1 must be there).
 
