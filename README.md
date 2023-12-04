@@ -57,3 +57,13 @@ Raspberry Pi Device: Raspberry Pi 4
 ![Config](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/adb584da-095d-41a5-b18e-772df3f9fb3f)
 
   - Enable the SSH, and SPI settings.
+
+![SPI](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/d70c1765-88ed-4c29-82e5-b7d511fa4f3c)
+
+- Check if the SPI configuration is unable or not using ls /dev (spidev0.0 and spidev0.1 must be there).
+
+## 4.	Connect Raspberry Pi board to PC
+-	Check the IP address of the Raspberry Pi board using: ip a
+-	Open the putty software in your PC and connect to Board using IP address.
+-	Log in to board using username and password
+
