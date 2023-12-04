@@ -92,14 +92,21 @@ Raspberry Pi Device: Raspberry Pi 4
 
 ![mywiring](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/a44de0a9-87ea-41d4-91e5-4d2e0be2d7e4)
 
-
+## 6.	Program Using Python
 -   Install the build-essential using sudo apt-get install build-essential
 -   Install the following packages using pip install packageName
       -   python-dev
       -   python-smbus
       -   python-pip
       -   python-imaging
-      -   python-numpy 
+      -   python-numpy
+
+## 6.1. Output 
+
+![Output](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/37f6bafa-233f-42fe-8ef4-849f31eba514)
+
+
+## 7.	Program Using C
 
 
 
