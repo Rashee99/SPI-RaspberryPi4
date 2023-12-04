@@ -95,6 +95,7 @@ Raspberry Pi Device: Raspberry Pi 4
 
 -   Install the build-essential using sudo apt-get install build-essential
 -   Install the following packages using pip install packageName
+-   -   k   
 
 
 
