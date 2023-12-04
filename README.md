@@ -87,6 +87,7 @@ Raspberry Pi Device: Raspberry Pi 4
 | VCC             | 2 (5V)             | Power (5V)             |
 
 
+![mywiring](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/7ec8b1aa-8e83-4f91-b7c1-87b8c73cdafe)
 
 
 
