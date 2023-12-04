@@ -14,3 +14,5 @@ INTERFACING RASPBERRY PI 4 WITH TFT DISPLAY USING SPI AND PROGRAMMING WITH C AND
 1. Download the [Raspberry Pi Imager](https://www.raspberrypi.org/software/) and install the software.
 2. Connect the SD card to the PC using an SD card reader.
 3. Open the software, and it will look like the following:
+
+   ![Raspberry Pi Imager](C:\shared\Raspberry Pi 4\SS\Writing.png)
