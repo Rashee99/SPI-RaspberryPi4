@@ -16,3 +16,41 @@ INTERFACING RASPBERRY PI 4 WITH TFT DISPLAY USING SPI AND PROGRAMMING WITH C AND
 3. Open the software, and it will look like the following:
 
 ![Writing](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/ecc897c0-5d46-4c4b-b124-fc1e845c2b61)
+
+Raspberry Pi Device: Raspberry Pi 4
+- Operating System: Raspberry Pi OS (64 bit)
+- Storage: Choose your SD card
+
+## Initial Setup Steps
+
+1. **Flash the OS to SD Card**
+   
+2. **Connect the Raspberry Pi Board**
+   - Insert the SD card into the Raspberry Pi Board.
+   - Connect the board to the monitor using an HDMI cable.
+   - Connect a mouse and keyboard to the board.
+
+3. **Power Up the Board**
+   - Use the provided power supply to power up the Raspberry Pi.
+
+4. **Configuration Setup**
+   - Configure country, language, time zone, and keyboard layout.
+   - Set the username to "pi" (if using "pi", avoid the old default password "password").
+
+5. **Connect to WiFi**
+   - Configure and connect to your WiFi network.
+
+6. **Choose Default Internet Browser**
+   - Select either Firefox or Chromium as your default internet browser.
+
+7. **Update Operating System and Software**
+   - Update your operating system and software to the latest versions.
+
+8. **Reboot Raspberry Pi**
+   - Click "Restart" to reboot your Raspberry Pi.
+
+## Raspberry Pi Configuration Tool
+
+9. **Open Raspberry Pi Configuration**
+   - Access the Raspberry Pi Configuration tool using the following steps:
+     - [Menu] > [Preferences] > [Raspberry Pi Configuration]
