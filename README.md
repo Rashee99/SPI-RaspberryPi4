@@ -55,4 +55,4 @@ Raspberry Pi Device: Raspberry Pi 4
    - Access the Raspberry Pi Configuration tool using the following steps:
 
    
-![Config](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/adb584da-095d-41a5-b18e-772df3f9fb3f)
+![Config](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/adb584da-095d-41a5-b18e-772df3f9fb3f){:width="300px"}
