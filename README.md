@@ -73,7 +73,7 @@ Raspberry Pi Device: Raspberry Pi 4
 
 ![wiring2](https://github.com/Rashee99/SPI-RaspberryPi4/assets/87062307/597512c8-ff0d-487b-81f9-28a5bc94cd3f)
 
-# Raspberry Pi and ILI9341 TFT Display Wiring
+### Raspberry Pi and ILI9341 TFT Display Wiring
 
 | TFT Display Pin | Raspberry Pi Pin | Raspberry Pi Function |
 |-----------------|-------------------|------------------------|
